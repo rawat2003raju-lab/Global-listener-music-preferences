@@ -1,3 +1,21 @@
+# Clone the Repository:
+git clone [https://github.com/your-username/global-music-listener-preferences.git](https://github.com/your-username/global-music-listener-preferences.git)
+cd global-music-listener-preferences
+
+# jupyter notebook notebooks/EDA_Music_Preferences.ipynb
+
+#Contact & Connect
+#If you have any questions, feedback, or collaboration ideas, feel free to reach out!
+
+👤 Name:[Raju Rawat]
+
+💼 LinkedIn: https://www.linkedin.com/in/raju-rawat-4a6233251/
+
+💻 GitHub Portfolio: https://github.com/rawat2003raju-lab
+
+
+
+
 # 🎧 Global Music Listener Preferences — End-to-End Data Analytics Project
 
 ## 📌 Project Overview
